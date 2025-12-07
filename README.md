@@ -1,6 +1,5 @@
 ![X logo rebrand](https://www.indiatoday.in/technology/news/story/x-in-bird-out-elon-musk-rebrands-twitter-logo-here-is-the-story-in-5-points-2410953-2023-07-24 "Rebranded X logo")
 
-
 # BrandPulse: Decoding SXSW Sentiment for Competitive Intelligence
 
 ## Overview
@@ -128,8 +127,14 @@ We transformed text entries into features that machine learning models can under
 
 **Model Selection** Bert was our best performing model hence we chose it.
 
+<img width="812" height="449" alt="image" src="https://github.com/user-attachments/assets/5552979a-7efa-4262-93af-9742b50837c6" />
+
+
 ## Business Insights and Competitive Analysis
 ### Accuracy by Sentiment Class
+
+<img width="787" height="586" alt="image" src="https://github.com/user-attachments/assets/71888b0c-6f4a-4e6b-b83b-848e86fd80c5" />
+
 **1. Negative Emotion**
 - Total actual negatives: 114
 - Correctly identified: 58 (50.9%)
@@ -160,6 +165,9 @@ The model provides a strong baseline for:
 - Customer satisfaction trends
 - ROI analysis for marketing activities
 - Benchmarking conversation volume
+
+<img width="809" height="509" alt="image" src="https://github.com/user-attachments/assets/3bd51159-ab7a-4856-9620-60ce87cb3608" />
+
 
 ### Areas of Risk
 - Positive sentiment is understated (31% shifted to neutral), potentially undervaluing successful campaigns.
