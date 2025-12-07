@@ -104,7 +104,6 @@ We transformed text entries into features that machine learning models can under
 - Particularly effective for short, informal text like tweets, improving emotion classification by leveraging semantic understanding beyond simple word counts.
 - Can be fine-tuned on your dataset for state-of-the-art performance in classification tasks.
   
-![Confusion Matrix](Confusion Matrix Final Model.jpg)
 
 ## Results
 **1. Logistic Regression**
