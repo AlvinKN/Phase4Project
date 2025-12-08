@@ -29,14 +29,15 @@ Brands invest massive resources in marketing at major events like SXSW, but they
 “Do we double down on this activation or cut our losses?”
 “Which competitor is heating up right now?”
 “What messaging is actually resonating with the audience?”
-2. Brand Strategy Consultants:
+
+**2. Brand Strategy Consultants:**
 
 "Need actionable competitive intelligence for client advising."
-
 “What is our true position vs competitors?”
 “What emerging trends should we capitalize on?”
 “Where are the market gaps we can own?”
-3. For a CMO After SXSW
+
+**3. For a CMO After SXSW:**
 
 “What should we change for next year?”
 “How should we allocate our next event budget?”
@@ -50,7 +51,7 @@ We use the **“judge-1377884607_tweet_product_company”** dataset, which conta
 Because the data comes from social media, it requires preprocessing such as text cleaning, removing noise (links, hashtags, punctuation), and preparing the text for analysis and modeling. This dataset allows us to explore customer opinions, compare sentiment across companies and product types, and identify patterns that can guide business decisions in marketing and customer experience.
 
 ## Data Preparation
-1.Handled missing values
+1. Handled missing values
 Ensured all records were complete and usable for modeling.
 
 2. Cleaned text (lowercasing, removing punctuation, and stopwords)
