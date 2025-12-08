@@ -149,6 +149,7 @@ We transformed text entries into features that machine learning models can under
 - Correctly identified: 863 (77.9%)
 - Misclassified as Negative: 35 (3.2%)
 - Misclassified as Positive: 210 (18.9%)
+  
 **Business meaning:** Neutral detection is strong, forming a reliable backbone for general sentiment tracking.
 
 **3. Positive Emotion**
@@ -156,6 +157,7 @@ We transformed text entries into features that machine learning models can under
 - Correctly identified: 395 (66.3%)
 - Misclassified as Neutral: 185 (31.0%)
 - Misclassified as Negative: 16 (2.7%)
+  
 **Business meaning:** Positive sentiment is captured reasonably well, but nearly one-third is diluted into neutral.
 
 ## Business Impact
