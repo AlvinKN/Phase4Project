@@ -141,6 +141,7 @@ We transformed text entries into features that machine learning models can under
 - Correctly identified: 58 (50.9%)
 - Misclassified as Neutral: 31 (27.2%)
 - Misclassified as Positive: 25 (21.9%)
+  
 **Business meaning:** The model catches about half of all negative comments; the rest are softened into neutral or positive sentiment.
 
 **2. Neutral (No Emotion Toward Brand/Product)**
